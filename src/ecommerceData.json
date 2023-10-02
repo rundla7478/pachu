@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Clothing 1",
+    "image": "/images/shop1.png",
+    "price": 50.0
+  },
+  {
+    "id": 2,
+    "name": "Clothing 2",
+    "image": "/images/shop2.png",
+    "price": 50.0
+  },
+  {
+    "id": 3,
+    "name": "Clothing 3",
+    "image": "/images/shop3.png",
+    "price": 50.0
+  },
+  {
+    "id": 4,
+    "name": "Clothing 4",
+    "image": "/images/shop4.png",
+    "price": 50.0
+  },
+  {
+    "id": 5,
+    "name": "Clothing 5",
+    "image": "/images/shop1.png",
+    "price": 50.0
+  },
+  {
+    "id": 6,
+    "name": "Clothing 6",
+    "image": "/images/shop2.png",
+    "price": 50.0
+  },
+  {
+    "id": 7,
+    "name": "Clothing 7",
+    "image": "/images/shop3.png",
+    "price": 50.0
+  },
+  {
+    "id": 8,
+    "name": "Clothing 8",
+    "image": "/images/shop4.png",
+    "price": 50.0
+  },
+  {
+    "id": 9,
+    "name": "Clothing 9",
+    "image": "/images/shop1.png",
+    "price": 50.0
+  },
+  {
+    "id": 10,
+    "name": "Clothing 10",
+    "image": "/images/shop2.png",
+    "price": 50.0
+  }
+]
